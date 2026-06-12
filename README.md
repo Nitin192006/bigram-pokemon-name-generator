@@ -1,4 +1,13 @@
 # 🧠 Pokémon Name Generator
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+![Bigram](https://img.shields.io/badge/Model-Bigram-purple)
+![Count Matrix](https://img.shields.io/badge/Count%20Model-Bigram%20Counts-orange)
+![Neural Bigram](https://img.shields.io/badge/Neural%20Model-Single%20Layer%20NN-darkgreen)
+![Generative AI](https://img.shields.io/badge/Task-Name%20Generation-success)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 A character-level language model built from scratch in PyTorch that learns how Pokémon names are formed and generates entirely new names one character at a time.
 
